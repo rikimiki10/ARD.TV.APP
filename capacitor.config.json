@@ -1,0 +1,12 @@
+{
+  "appId": "app.lovable.ecaf3c9ea13544a991abea4ffd01c9b4",
+  "appName": "ARD TV",
+  "webDir": "dist",
+  "server": {
+    "url": "https://ecaf3c9e-a135-44a9-91ab-ea4ffd01c9b4.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
